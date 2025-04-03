@@ -1,0 +1,3 @@
+D:/cpp proj/PATD/laba2.1/build/CMakeFiles/sequences.dir
+D:/cpp proj/PATD/laba2.1/build/CMakeFiles/ALL_BUILD.dir
+D:/cpp proj/PATD/laba2.1/build/CMakeFiles/ZERO_CHECK.dir

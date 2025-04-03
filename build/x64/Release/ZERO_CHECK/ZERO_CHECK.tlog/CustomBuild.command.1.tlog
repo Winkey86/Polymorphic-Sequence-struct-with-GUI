@@ -1,0 +1,10 @@
+^D:\CPP PROJ\PATD\LABA2.1\BUILD\CMAKEFILES\6E707FF5EF27A8FB89109DDEFEB9457F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/cpp proj/PATD/laba2.1" "-BD:/cpp proj/PATD/laba2.1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/cpp proj/PATD/laba2.1/build/SequencesBinding.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

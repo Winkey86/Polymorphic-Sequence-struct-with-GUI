@@ -1,0 +1,16 @@
+
+абс тип данных ->sequence (интерфейс) ->ListSequence  Методы как в <- Linked list(контейнер для данных в private )
+                         ->ArraySequence Методы как <- Dynamic Array
+
+
+вместо return new 
+писать Instance()->items;
+реализовать метод Instance()
+для возвращения либо ссылки лиьо clone
+Instance()
+return this;
+return Clone()
+
+Clone()
+return new...();
+
