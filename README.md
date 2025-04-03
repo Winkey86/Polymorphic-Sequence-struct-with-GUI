@@ -1,2 +1,1 @@
-# Polymorphic-Sequence-struct-with-GUI
-Polymorphic Sequence struct on C++ with GUI on PyQt5
+Polymorphic Sequence struct on C++ with GUI on PyQt5 using pybind11
